@@ -56,14 +56,14 @@ social:
   #link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+ - icon: cv
+   icon_pack: ai
+   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
-#gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-#avatar = "/foto.jpg" 
+gravatar = false  # Get your avatar from Gravatar.com? (true/false)
+avatar = "img/foto.jpg" 
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
