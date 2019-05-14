@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Giulia Mantoan
 
 # Username (this should match the folder name)
 authors:
@@ -10,20 +10,20 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Warwick Business School
+  url: "https://www.wbs.ac.uk"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Econometrics (Bayesian)
+- Forecasting
+- Macroeconomcis
 
 education:
   courses:
