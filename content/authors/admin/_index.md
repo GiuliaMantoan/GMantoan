@@ -62,8 +62,8 @@ social:
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
-gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-avatar = "img/foto.jpg" 
+#gravatar = false  # Get your avatar from Gravatar.com? (true/false)
+#avatar = "img/foto.jpg" 
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
