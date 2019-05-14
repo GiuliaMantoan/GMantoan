@@ -20,6 +20,8 @@ googleAnalytics = ""
 
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
+gravatar = false  # Get your avatar from Gravatar.com? (true/false)
+  avatar = "foto.jpg"  
 
 ############################
 ## Advanced options below ##
