@@ -1,5 +1,5 @@
 ---
-title: Optimal pooling and Mixture 
+title: Publications
 
 # View.
 #   1 = List
