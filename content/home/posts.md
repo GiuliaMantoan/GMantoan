@@ -7,8 +7,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 60  # Order that this section will appear.
 
-title = "Optimal Pooling and Finite Mixture Distribution"
-subtitle = "a Comparison between Approaches to Density Forecast Combination"
+title = "Recent Posts"
+subtitle = ""
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
@@ -36,7 +36,7 @@ subtitle = "a Comparison between Approaches to Density Forecast Combination"
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 1
+  view = 2
   
 [design.background]
   # Apply a background color, gradient, or image.
@@ -65,18 +65,3 @@ subtitle = "a Comparison between Approaches to Density Forecast Combination"
  # CSS class.
  css_class = ""
 +++
-The combination of two or more density forecasts entails a long tradition the
-statistics and forecasting literature. However, little attention in econometrics has
-been given to the finite mixture distribution as a statistical model for combining
-density forecasts. Combination procedures based on a mixture density distribution
-are able to account for parameter uncertainty in addition to weights uncertainty,
-which are features normally not considered in the traditional "two-step" approaches.
-The aim of this paper is to compare the "one-step" mixture approach with a more
-traditional "two step" approach for combining density forecasts. The comparison
-has been achieved with several Monte Carlo simulations and applications. From
-the comparison, the "two-step" set of procedures result to be more accurate in
-combining density forecasts when the sample size is small, the individual models
-are nonnested or when the number of forecasts to combine is high. The "one-step"
-is more accurate in combing density forecasts when the sample size is big enough,
-the individual models are nested, when data presents breaks or when the number of
-forecasts to combine is low.
