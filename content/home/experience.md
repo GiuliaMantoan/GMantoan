@@ -35,14 +35,7 @@ date_format = "Jan 2006"
   company_url = "https://www.prometeia.it/en/research-insights"
   location = "Bologna, Italy"
   date_start = "2015-10-01"
-  date_end = "2016-09-00"
-  description = """
-  Responsibilities include:
-  
-  * Build forecasting models tailored to the client
-  * Monitoring financial markets and reporting
-  * Present previsions to practitioners
-  * Write articles for the company press
-  """
+  date_end = "2016-09-01"
+  description = """  """
 
 +++
