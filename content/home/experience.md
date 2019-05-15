@@ -24,12 +24,7 @@ date_format = "Jan 2006"
   location = "Oslo, Norway"
   date_start = "2019-04-01"
   date_end = "2019-11-01"
-  description = """
-  The program includes:
-  
-  * Co-autorship paper with Knut Are Aastveit and Saskia Ter Ellen 
-  * Presentation in internal seminar
-  """
+  description = """"""
 
 [[experience]]
   title = "Junior Economist"
@@ -38,13 +33,6 @@ date_format = "Jan 2006"
   location = "Bologna, Italy"
   date_start = "2015-10-01"
   date_end = "2016-09-00"
-  description = """
-  Responsibilities include:
-  
-  * Build forecasting models tailored to the client
-  * Monitoring financial markets and reporting
-  * Present previsions to practitioners
-  * Write articles for the company press
-  """
+  description = """"""
 
 +++
