@@ -2,7 +2,7 @@
 title: "Optimal Pooling and Finite Mixture Distribution: a Comparison between Approaches to Density Forecast Combination"
 authors:
 - admin
-date: "2013-07-01T00:00:00Z"
+date: "2019-04-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
