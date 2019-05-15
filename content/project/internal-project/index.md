@@ -7,7 +7,7 @@ summary: First Organiser
 external_link: "https://sites.google.com/site/resjunsym/home"
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: JS logo
   focal_point: Smart
 
 links:
