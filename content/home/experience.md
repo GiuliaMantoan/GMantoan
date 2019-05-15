@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Norges Bank Intern"
   company = "Norges Bank"
-  company_url = ""
+  company_url = "https://www.norges-bank.no/en/topics/Research/Phd-internship/"
   location = "Oslo"
   date_start = "2017-01-01"
   date_end = ""
