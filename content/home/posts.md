@@ -65,6 +65,8 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+title = "Optimal Pooling and Finite Mixture Distribution: a Comparison between Approaches to Density Forecast Combination"
+authors = ["admin"]
 The combination of two or more density forecasts entails a long tradition the
 statistics and forecasting literature. However, little attention in econometrics has
 been given to the finite mixture distribution as a statistical model for combining
