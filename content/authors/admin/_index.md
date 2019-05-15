@@ -56,9 +56,9 @@ social:
   #link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
- #- icon: cv
- #  icon_pack: ai
- #  link: "files/cv.pdf"
+ - icon: cv
+   icon_pack: ai
+   link: "cv.pdf"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: "phd16gm@mail.wbs.ac.uk"
@@ -67,10 +67,5 @@ social:
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
-user_groups:
-- Researchers
-- Visitors
 ---
 I am a Ph.D student in Econometrics at Warwick Business School. My research interests are in forecasting and macroeconomics. In particular, I study density forecasting, its combination, calibration and comunication. My supervisors are Prof. Ana Beatriz Galvao and Prof. James Mitchell. Before starting my Ph.D I did reseach in the private sector, working as Junior Economist at Prometeia SPA, and studied Economics at Ca’ Foscari Univeristy in Venice.
-
-I am currently organizing the PhD conference of the Royal Economic Society Conference that this year will be host by University of Warwick. For further information, please refer to the website of the Junior Symposium https://sites.google.com/site/resjunsym/home
