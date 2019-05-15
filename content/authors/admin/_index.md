@@ -61,7 +61,7 @@ social:
    link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "phd16gm@mail.wbs.ac.uk"
+#email: "phd16gm@mail.wbs.ac.uk"
 #gravatar = false  # Get your avatar from Gravatar.com? (true/false)
 #avatar = "img/foto.jpg" 
   
