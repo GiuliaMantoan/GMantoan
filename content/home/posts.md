@@ -7,9 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 60  # Order that this section will appear.
 
-title = "Optimal Pooling and Finite Mixture Distribution: a
-Comparison between Approaches to Density Forecast
-Combination"
+title = "Workin Papers"
 subtitle = ""
 
 [content]
