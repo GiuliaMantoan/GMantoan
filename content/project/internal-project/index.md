@@ -1,12 +1,10 @@
 ---
-title: Internal Project
-summary: An example of using the in-built project page.
-tags:
-- Deep Learning
-date: "2016-04-27T00:00:00Z"
+title: RES Symposium of Junior Researchers 2019
+summary: First Organiser
+
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://sites.google.com/site/resjunsym/home"
 
 image:
   caption: Photo by rawpixel on Unsplash
