@@ -15,14 +15,14 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: 
-publication_short:
+#publication: 
+#publication_short:
 
 abstract: "The combination of two or more density forecasts entails a long tradition the statistics and forecasting literature. However, little attention in econometrics has been given to the finite mixture distribution as a statistical model for combining density forecasts. Combination procedures based on a mixture density distribution are able to account for parameter uncertainty in addition to weights uncertainty, which are features normally not considered in the traditional two-step approaches. The aim of this paper is to compare the one-step mixture approach with a more traditional two step approach for combining density forecasts. The comparison has been achieved with several Monte Carlo simulations and applications. From
 the comparison, the two-step set of procedures result to be more accurate in combining density forecasts when the sample size is small, the individual models are nonnested or when the number of forecasts to combine is high. The one-step is more accurate in combing density forecasts when the sample size is big enough, the individual models are nested, when data presents breaks or when the number of forecasts to combine is low."
 
 # Summary. An optional shortened abstract.
-summary: "The paper proposes a comparison between combination approaches for density forecasting."
+summary: "The combination of two or more density forecasts entails a long tradition the statistics and forecasting literature. However, little attention in econometrics has been given to the finite mixture distribution as a statistical model for combining density forecasts. Combination procedures based on a mixture density distribution are able to account for parameter uncertainty in addition to weights uncertainty, which are features normally not considered in the traditional two-step approaches. The paper proposes a comparison between combination approaches for density forecasting."
 
 tags:
 #- Source Themes
@@ -43,8 +43,8 @@ links:
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ""
+  #caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  focal_point: "smart"
   preview_only: false
 
 # Associated Projects (optional).
@@ -52,8 +52,8 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-- internal-project
+#projects:
+#- internal-project
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -63,13 +63,5 @@ projects:
 slides: example
 ---
 
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
 
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
