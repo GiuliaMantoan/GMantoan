@@ -21,15 +21,14 @@ date_format = "Jan 2006"
   title = "Norges Bank Intern"
   company = "Norges Bank"
   company_url = "https://www.norges-bank.no/en/topics/Research/Phd-internship/"
-  location = "Oslo"
-  date_start = "2017-01-01"
-  date_end = ""
+  location = "Oslo, Norway"
+  date_start = "2019-04-01"
+  date_end = "2019-11-01"
   description = """
-  Responsibilities include:
+  Internship provides:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Co-autorship paper with Knut Are Aastveit and Saskia Ter Ellen
+  * Presentation in internal seminar
   """
 
 [[experience]]
