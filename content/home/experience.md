@@ -25,6 +25,8 @@ date_format = "Jan 2006"
   date_start = "2019-04-01"
   date_end = "2019-11-01"
   description = """
+  The program includes:
+  
   * Co-autorship paper with Knut Are Aastveit and Saskia Ter Ellen 
   * Presentation in internal seminar
  """
