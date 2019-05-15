@@ -1,7 +1,14 @@
-title: 'Academic: the website builder for Hugo'
-subtitle: 'Create a beautifully simple website in under 10 minutes :rocket:'
-summary: Create a beautifully simple website in under 10 minutes.
-authors:
-- admin
-tags:
-- Academic
+---
+title: Posts
+
+# View.
+#   1 = List
+#   2 = Compact
+#   3 = Card
+view: 2
+
+# Optional header image (relative to `static/img/` folder).
+header:
+  caption: ""
+  image: ""
+---
