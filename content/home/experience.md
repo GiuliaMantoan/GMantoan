@@ -3,7 +3,7 @@
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+weight = 15  # Order that this section will appear.
 
 title = "Experience"
 subtitle = ""
@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Oslo, Norway"
   date_start = "2019-04-01"
   date_end = "2019-11-01"
-  description = "
+  description = """
   
   * Co-autorship paper with Knut Are Aastveit and Saskia Ter Ellen 
   * Presentation in internal seminar "
@@ -44,5 +44,5 @@ date_format = "Jan 2006"
   * Monitoring financial markets and reporting
   * Present previsions to practitioners
   * Write articles for the company press
-
+"""
 +++
