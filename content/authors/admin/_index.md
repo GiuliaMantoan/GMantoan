@@ -44,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact' #"mailto:phd16gm@mail.wbs.ac.uk".
+  link: 'mailto:phd16gm@mail.wbs.ac.uk'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/Giulia_Mantoan
