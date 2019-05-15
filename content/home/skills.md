@@ -28,10 +28,10 @@ subtitle = ""
   description = "90%"
  
   
-# [[feature]]
- # icon = "spa"
-  #icon_pack = "fas"
- # name = "Yoga"
-  #description = "60%”  
+[[feature]]
+  icon = "spa"
+  icon_pack = "fas"
+  name = "Yoga"
+  description = "60%"
 
 +++
