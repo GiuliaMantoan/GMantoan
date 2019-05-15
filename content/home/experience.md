@@ -3,7 +3,7 @@
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 15  # Order that this section will appear.
+weight = 50  # Order that this section will appear.
 
 title = "Experience"
 subtitle = ""
@@ -25,10 +25,9 @@ date_format = "Jan 2006"
   date_start = "2019-04-01"
   date_end = "2019-11-01"
   description = """
-  
-  * Co-autorship paper with Knut Are Aastveit and Saskia Ter Ellen 
-  * Presentation in internal seminar "
-  """
+  #* Co-autorship paper with Knut Are Aastveit and Saskia Ter Ellen 
+  #* Presentation in internal seminar "
+  #"""
 
 [[experience]]
   title = "Junior Economist"
@@ -38,11 +37,11 @@ date_format = "Jan 2006"
   date_start = "2015-10-01"
   date_end = "2016-09-00"
   description = """
-   Responsibilities include:
+  # Responsibilities include:
   
-  * Build forecasting models tailored to the client
-  * Monitoring financial markets and reporting
-  * Present previsions to practitioners
-  * Write articles for the company press
-"""
+  #* Build forecasting models tailored to the client
+  #* Monitoring financial markets and reporting
+  #* Present previsions to practitioners
+  #* Write articles for the company press
+#"""
 +++
