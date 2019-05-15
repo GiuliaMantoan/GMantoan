@@ -66,7 +66,7 @@ address = "Doctoral Office 2.008, Warwick Business School, University of Warwick
 contact_links = [
   {icon = "twitter", icon_pack = "fab", name = "Twitter", link = "https://twitter.com/Giulia_Mantoan"},
   {icon = "skype", icon_pack = "fab", name = "Skype", link = "https://join.skype.com/invite/aq8GkMcXiOac"},
-  {icon = "envelope", icon_pack = "fab", name = "phd16gm@mail.wbs.ac.uk"},
+ # {icon = "envelope", icon_pack = "fab", name = "phd16gm@mail.wbs.ac.uk"},
  # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
   ]
