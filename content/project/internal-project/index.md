@@ -6,7 +6,7 @@ summary: First Organiser
 # Optional external URL for project (replaces project detail page).
 external_link: "https://sites.google.com/site/resjunsym/home"
 
-image:
+image: phdlogo.png
   caption: JS logo
   focal_point: Smart
 
