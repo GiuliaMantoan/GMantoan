@@ -25,8 +25,7 @@ subtitle = "a Comparison between Approaches to Density Forecast Combination"
 
   # Filter posts by a taxonomy term.
   [content.filters]
-    tag = "density forecast, combination of forecasts, density forecast evaluation,
-macroeconomic forecasting, optimal pooling, finite mixture distribution"
+    tag = ""
     category = ""
     publication_type = ""
     exclude_featured = false
