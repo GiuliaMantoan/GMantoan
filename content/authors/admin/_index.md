@@ -27,9 +27,9 @@ interests:
 
 education:
   courses:
-  - course: PhD in Finance and Econometrics, 2020
+  - course: PhD in Finance and Econometrics, 2021
     institution: Warwick Business School - University of Warwick
-    year: 2020
+    year: 2021
   - course: MSc in Models and Methods for Economics, 2015
     institution: Ca Foscari University (Venice)
     year: 2015
