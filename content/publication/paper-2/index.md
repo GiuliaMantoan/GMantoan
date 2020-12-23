@@ -20,7 +20,15 @@ publication_types: ["3"]
 #publication: In *Source Themes Conference*
 #publication_short: In *STC*
 
-abstract: 
+abstract: Central Banks regularly publish fancharts of macroeconomic variables, communicating
+forecasts for several horizons. Although fancharts contains three types of
+information: point forecasts (the path), likelihood of the path (bands around it), and
+variable's dynamics across horizons; the latter is neglected by existing absolute evaluation
+approaches. Practitioners indeed evaluate the calibration of fancharts testing
+the forecast accuracy horizon by horizon, not considering any time-dependency
+among them. This paper describes fancharts as density path forecasts, discusses
+the impact of time-dependence in evaluation and proposes calibration tests to assess
+whether or not Central Banks publishes reliable forecasts.
 
 # Summary. An optional shortened abstract.
 summary:
