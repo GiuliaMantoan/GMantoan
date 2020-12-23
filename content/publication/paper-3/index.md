@@ -1,8 +1,8 @@
 ---
 title: "Quantile density combination: An application to US GDP forecasts"
-authors: Knut Are Aastveit Saskia ter Ellen Giulia Mantoan
+authors: "Knut Are Aastveit, Saskia ter Ellen, Giulia Mantoan"
 - admin
-date: "2019-04-01T00:00:00Z"
+date: "2020-04-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
