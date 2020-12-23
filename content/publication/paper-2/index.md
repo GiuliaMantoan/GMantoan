@@ -30,14 +30,14 @@ among them. This paper describes fancharts as density path forecasts, discusses
 the impact of time-dependence in evaluation and proposes calibration tests to assess
 whether or not Central Banks publishes reliable forecasts."
 
+
+
+# Summary. An optional shortened abstract.
 summary: "Practitioners indeed evaluate the calibration of fancharts testing
 the forecast accuracy horizon by horizon, not considering any time-dependency
 among them. This paper describes fancharts as density path forecasts, discusses
 the impact of time-dependence in evaluation and proposes calibration tests to assess
 whether or not Central Banks publishes reliable forecasts."
-
-# Summary. An optional shortened abstract.
-summary:
 
 tags:
 #- Source Themes
