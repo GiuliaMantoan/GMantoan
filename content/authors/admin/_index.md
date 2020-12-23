@@ -68,6 +68,5 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 ---
-I am a Ph.D student in Econometrics at Warwick Business School. My research interests are in forecasting and macroeconomics. In particular, I study density forecasting, its combination, calibration and comunication. My supervisors are Prof. Ana Beatriz Galvao and Prof. James Mitchell. Before starting my Ph.D I did reseach in the private sector, working as Junior Economist at Prometeia SPA, and studied Economics at Ca’ Foscari Univeristy in Venice.
-
-During the 2019 I was a Ph.D. intern at Norges Bank in Oslo, Norway.
+I am a Ph.D student in Econometrics at Warwick Business School. My research interests are in forecasting and macroeconomics. In particular, I study density forecasting, its combination, calibration and communication. My supervisors are Prof. Ana Beatriz Galvao and Prof. James Mitchell. Before starting my Ph.D I did research in the private sector, working as Junior Economist at Prometeia SPA, and studied Economics at Ca’ Foscari Univeristy in Venice.
+During my Ph.D I organised the 2019 Royal Economic Society Symposium of Junior Researcher and participated to the doctoral internship at Norges Bank in Oslo, Norway.
