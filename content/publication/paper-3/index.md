@@ -47,7 +47,7 @@ links:
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  #caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'Cumulative CRPS for alternative approaches to forecast and combination for one-year ahead US GDP growth forecasts.'
   focal_point: smart
   preview_only: false
 
