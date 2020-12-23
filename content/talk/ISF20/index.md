@@ -1,5 +1,5 @@
 ---
-title: "40th International Symposium on Forecasting (ISF 2020"
+title: "40th International Symposium on Forecasting (ISF 2020)"
 event: Academic Conference
 event_url: 
 location: Online conference
