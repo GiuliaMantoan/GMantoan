@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Candidate
+role: Research Associate
 
 # Organizations/Affiliations
 organizations:
-- name: Warwick Business School
-  url: "https://www.wbs.ac.uk"
+- name: The Alan Turing Institute
+  url: "https://www.turing.ac.uk/research/research-programmes/finance-and-economics"
 
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -27,13 +27,13 @@ interests:
 
 education:
   courses:
-  - course: PhD in Finance and Econometrics, 2021
+  - course: PhD in Finance and Econometrics
     institution: Warwick Business School - University of Warwick
     year: 2021
-  - course: MSc in Models and Methods for Economics, 2015
+  - course: MSc in Models and Methods for Economics
     institution: Ca Foscari University (Venice)
     year: 2015
-  - course: BSc in Economics, 2013
+  - course: BSc in Economics
     institution: Ca Foscari University (Venice)
     year: 2013
 
