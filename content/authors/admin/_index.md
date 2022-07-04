@@ -44,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:phd16gm@mail.wbs.ac.uk'
+  link: 'mailto:giuliamantoanphd@gmail.com'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/Giulia_Mantoan
@@ -61,12 +61,15 @@ social:
 #   link: #static/files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-#email: "phd16gm@mail.wbs.ac.uk"
+#email: "giuliamantoanphd@gmail.com"
 #gravatar = false  # Get your avatar from Gravatar.com? (true/false)
 #avatar = "img/foto.jpg" 
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 ---
-I am a Ph.D student in Econometrics at Warwick Business School. My research interests are in forecasting and macroeconomics. In particular, I study density forecasting, its combination, calibration and communication. My supervisors are Prof. Ana Beatriz Galvao and Prof. James Mitchell. Before starting my Ph.D I did research in the private sector, working as Junior Economist at Prometeia SPA, and studied Economics at Ca’ Foscari Univeristy in Venice.
-During my Ph.D I organised the 2019 Royal Economic Society Symposium of Junior Researcher and participated to the doctoral internship at Norges Bank in Oslo, Norway.
+I am currently employed at The Alan Turing Institute as a postdoc,
+working on a nowcasting project in collaboration with the ONS. The paper applies "signatures", a well-known method in data science, to macroeconomic nowcasting. 
+I've recently finished my PhD in Econometrics at Warwick Business School under the supervision of Prof. Ana Beatriz Galvao and Prof. James Mitchell. My thesis focuses on density forecasting, its combination, calibration and constraining.  Besides my thesis, I worked on a project with Knut Are Aastveit and Saskia ter Ellen during a PhD internship at Norges Bank in Oslo, Norway. The paper proposes the quantile combination approach to forecast growth-at-risk in the US. 
+During my time in Warwick, I organised the 2019 Royal Economic Society Symposium of Junior Researchers. An experience that broadened my connections, especially among young researchers.
+Before starting my PhD, I worked as Junior Economist at Prometeia SPA and studied Economics at Ca’ Foscari University in Venice.
