@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Research Associate
+role: Research Economist
 
 # Organizations/Affiliations
 organizations:
-- name: The Alan Turing Institute
-  url: "https://www.turing.ac.uk/research/research-programmes/finance-and-economics"
+- name: Bank of England
+  #url: "https://www.turing.ac.uk/research/research-programmes/finance-and-economics"
 
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -68,8 +68,7 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 ---
-I am currently employed at The Alan Turing Institute as a postdoc,
-working on a nowcasting project in collaboration with the ONS. The paper applies "signatures", a well-known method in data science, to macroeconomic nowcasting. 
+I am currently employed at the Bank of England as research economist in Monetary Analysis directorate. Before that, I was employes as postdoc at The Alan Turing Institute, where I worked on a nowcasting project in collaboration with the ONS. The paper applies "signatures", a well-known method in data science, to macroeconomic nowcasting. 
 I've recently finished my PhD in Econometrics at Warwick Business School under the supervision of Prof. Ana Beatriz Galvao and Prof. James Mitchell. My thesis focuses on density forecasting, its combination, calibration and constraining.  Besides my thesis, I worked on a project with Knut Are Aastveit and Saskia ter Ellen during a PhD internship at Norges Bank in Oslo, Norway. The paper proposes the quantile combination approach to forecast growth-at-risk in the US. 
 During my time in Warwick, I organised the 2019 Royal Economic Society Symposium of Junior Researchers. An experience that broadened my connections, especially among young researchers.
 Before starting my PhD, I worked as Junior Economist at Prometeia SPA and studied Economics at Ca’ Foscari University in Venice.
