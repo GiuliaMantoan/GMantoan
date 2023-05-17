@@ -1,7 +1,7 @@
 ---
 title: "12th ECB Conference on Forecasting Techniques"
 event: Academic Conference
-event_url: 
+event_url: https://eabcn.org/event/12th-ecb-conference-forecasting-techniques
 location: Frankfurt am Main, Germany
 summary:
 
@@ -28,7 +28,7 @@ links:
 #- icon: twitter
 #  icon_pack: fab
 #  name: Follow
-  url: https://eabcn.org/event/12th-ecb-conference-forecasting-techniques
+#  url: 
 #url_code: ""
 #url_pdf: ""
 #url_slides: ""
