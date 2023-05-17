@@ -68,7 +68,8 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 ---
-I am currently employed at the Bank of England as research economist in Monetary Analysis directorate. Before that, I was employes as postdoc at The Alan Turing Institute, where I worked on a nowcasting project in collaboration with the ONS. The paper applies "signatures", a well-known method in data science, to macroeconomic nowcasting. 
-I've recently finished my PhD in Econometrics at Warwick Business School under the supervision of Prof. Ana Beatriz Galvao and Prof. James Mitchell. My thesis focuses on density forecasting, its combination, calibration and constraining.  Besides my thesis, I worked on a project with Knut Are Aastveit and Saskia ter Ellen during a PhD internship at Norges Bank in Oslo, Norway. The paper proposes the quantile combination approach to forecast growth-at-risk in the US. 
-During my time in Warwick, I organised the 2019 Royal Economic Society Symposium of Junior Researchers. An experience that broadened my connections, especially among young researchers.
-Before starting my PhD, I worked as Junior Economist at Prometeia SPA and studied Economics at Ca’ Foscari University in Venice.
+The one thing you need to know about me is that I am all about predictive distributions: how to estimate them, how to combine and calibrate them, and how to communicate them better. 
+Currently, I work at the Bank of England in the Monetary Analysis directorate. Before being a researcher at the Bank, I was a postdoc at the Alan Turing Institute where I collaborated with the ONS - Data Science Campus and an intern at Norges Bank.
+I am a proud Ca' Foscari Alumni and a University of Warwick Graduate (where I obtained my PhD in 2021).
+
+Even though this is my website, none of the work you see here could have been possible without the amazing network of researchers I was lucky enough to meet. A non-exhaustive list includes my PhD supervisors James Mitchell and Ana Galvao and my co-authors Knut Are Aastveit, Saskia ter Ellen, Samuel Cohen, Silvia Lui, Lars Nesheim, Aureo de Paula, Roberto Casarin, Francesco Ravazzolo, Simon Lloyd and Ed Manuel. 
