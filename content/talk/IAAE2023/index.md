@@ -1,5 +1,5 @@
 ---
-title: "IAAE"
+title: "9th Annual Conference of the International Association for Applied Econometrics (IAAE)"
 event: Academic Conference
 event_url: https://www.bi.edu/about-bi/events/2023/june/iaae2023/
 location: BI Norwegian Business School, Oslo, Norway
