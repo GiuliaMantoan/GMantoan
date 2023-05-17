@@ -35,7 +35,7 @@ tags:
 links:
 #- name: Custom Link
 #  url: http://example.org
-#url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
+url_pdf: https://www.clevelandfed.org/-/media/project/clevelandfedtenant/clevelandfedsite/events/conference-on-real-time-data/knut-are-aastveit-paper.pdf
 #url_code: '#'
 #url_dataset: '#'
 #url_poster: '#'
