@@ -1,7 +1,7 @@
 ---
 title: "IAAE"
 event: Academic Conference
-event_url: 
+event_url: https://www.bi.edu/about-bi/events/2023/june/iaae2023/
 location: BI Norwegian Business School, Oslo, Norway
 summary:
 
@@ -28,7 +28,7 @@ links:
 #- icon: twitter
 #  icon_pack: fab
 #  name: Follow
-  url: https://www.bi.edu/about-bi/events/2023/june/iaae2023/
+#  url: 
 #url_code: ""
 #url_pdf: ""
 #url_slides: ""
