@@ -1,7 +1,7 @@
 ---
 title: "28th International Panel Data Conference"
 event: Academic Conference
-event_url: 
+event_url: https://ipdc2023.org
 location: Amsterdam School of Economics, Amsterdam, Netherlands
 summary:
 
@@ -28,7 +28,7 @@ links:
 #- icon: twitter
 #  icon_pack: fab
 #  name: Follow
-  url: https://ipdc2023.org
+#  url: 
 #url_code: ""
 #url_pdf: ""
 #url_slides: ""
