@@ -1,7 +1,12 @@
 ---
 title: "Nowcasting with Signature Methods"
 authors:
+- Samuel Cohen
+- Silvia Lui
 - admin
+- Lars Nesheim
+- Aureo de Paula
+- Lingyi Yang
 date: "2022-08-01T00:00:00Z"
 doi: ""
 
