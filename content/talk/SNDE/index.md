@@ -1,7 +1,7 @@
 ---
 title: "Society for Nonlinear Dynamics and Econometrics"
 event: Academic Conference
-event_url: 
+event_url: https://sndeecon.org/filer/dokumentarkiv/10032023_2023_snde_progam_031023.pdf
 location: University of Central Florida, Orlando, Florida, USA
 summary:
 
@@ -28,7 +28,7 @@ links:
 #- icon: twitter
 #  icon_pack: fab
 #  name: Follow
-  url: https://sndeecon.org/filer/dokumentarkiv/10032023_2023_snde_progam_031023.pdf
+#  url:
 #url_code: ""
 #url_pdf: ""
 #url_slides: ""
