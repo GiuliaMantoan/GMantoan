@@ -46,7 +46,7 @@ tags:
 links:
 #- name: Custom Link
 #  url: http://example.org
-url_pdf: https://iariw.org/wp-content/uploads/2022/07/Nowcasting-IARIW-2022.pdf
+url_pdf: https://arxiv.org/abs/2305.10256
 url_code: https://github.com/datasciencecampus/SigNow_ONS_Turing
 #url_dataset: '#'
 #url_poster: '#'
