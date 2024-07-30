@@ -1,10 +1,10 @@
 ---
-title: "Quantile density combination: An application to US GDP forecasts"
+title: "Quantile combination: An application to US GDP growth forecasts"
 authors: 
 - Knut Are Aastveit
 - Saskia ter Ellen
 - admin
-date: "2020-04-01T00:00:00Z"
+date: "2024-07-10T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -20,10 +20,7 @@ publication_types: ["3"]
 #publication: 
 #publication_short:
 
-abstract: "In this paper, we combine density forecasts from Bayesian quantile regressions. We develop a forecasts combination scheme that assigns weights to the individual predictive density forecasts based on quantile scores. Compared to standard combination schemes, our approach has the advantage of assigning different set of combination weights to the various quantiles of the predictive distribution. We apply our approach to US GDP growth forecasts based on quantile regressions using a broad set of common leading indicators. The results show that density forecasts from our quantile combination approach outperforms forecasts from commonly used combination
-approaches such as Bayesian Model Averaging, optimal combination, combinations based on recursive logarithmic score weights and equal weights.
-In particular, our quantile combination approach provides more accurate forecasts for the lower tail of the GDP distribution, measuring downside
-macroeconomic risk."
+abstract: "We propose an easy-to-implement framework for combining quantile forecasts, applied to forecasting GDP growth. Using quantile regressions, our combination scheme assigns weights to individual forecasts from different indicators based on quantile scores. Previous studies suggest distributional variation in forecasting performance of leading indicators: some indicators predict the mean well, while others excel at predicting the tails. Our approach leverages this by assigning different combination weights to various quantiles of the predictive distribution. In an empirical application to forecast US GDP growth using common predictors, forecasts from our quantile combination outperform those from commonly used combination approaches, especially for the tails."
 
 # Summary. An optional shortened abstract.
 summary: "We develop a forecasts combination scheme that assigns weights to the individual predictive density forecasts based on quantile scores. Compared to standard combination schemes, our approach has the advantage of assigning different set of combination weights to the various quantiles of the predictive distribution. We apply our approach to US GDP growth forecasts based on quantile regressions using a broad set of common leading indicators."
@@ -35,7 +32,7 @@ tags:
 links:
 #- name: Custom Link
 #  url: http://example.org
-url_pdf: https://www.clevelandfed.org/-/media/project/clevelandfedtenant/clevelandfedsite/events/conference-on-real-time-data/knut-are-aastveit-paper.pdf
+url_pdf: https://www.norges-bank.no/en/news-events/news-publications/Papers/Working-Papers/2024/wp-142024/
 #url_code: '#'
 #url_dataset: '#'
 #url_poster: '#'
