@@ -1,13 +1,13 @@
 ---
-title: "Nowcasting with Signature Methods"
+title: "Nowcasting using regression on signatures"
 authors:
-- Samuel Cohen
-- Silvia Lui
+- Samuel N. Cohen
 - admin
 - Lars Nesheim
-- Aureo de Paula
+- Áureo de Paula
+- Arthur Turrell
 - Lingyi Yang
-date: "2022-08-01T00:00:00Z"
+date: "2025-12-16T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -46,7 +46,7 @@ tags:
 links:
 #- name: Custom Link
 #  url: http://example.org
-url_pdf: https://arxiv.org/abs/2305.10256
+url_preprint: https://arxiv.org/abs/2305.10256
 url_code: https://github.com/datasciencecampus/SigNow_ONS_Turing
 #url_dataset: '#'
 #url_poster: '#'

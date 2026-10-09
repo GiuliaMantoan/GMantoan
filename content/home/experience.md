@@ -18,6 +18,39 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Senior Research Economist"
+  company = "Bank of England"
+  company_url = "https://www.bankofengland.co.uk/"
+  location = "London, UK"
+  date_start = "2025-02-01"
+  date_end = ""
+  description = """
+  * Monetary Analysis directorate
+  """
+
+[[experience]]
+  title = "Research Economist"
+  company = "Bank of England"
+  company_url = "https://www.bankofengland.co.uk/"
+  location = "London, UK"
+  date_start = "2022-10-01"
+  date_end = "2025-02-01"
+  description = """
+  * Monetary Analysis directorate
+  """
+
+[[experience]]
+  title = "Postdoctoral Researcher"
+  company = "The Alan Turing Institute"
+  company_url = "https://www.turing.ac.uk/"
+  location = "London, UK"
+  date_start = "2021-09-01"
+  date_end = "2022-09-30"
+  description = """
+  * Nowcasting with signature methods, in collaboration with the ONS Data Science Campus
+  """
+
+[[experience]]
   title = "Norges Bank Intern"
   company = "Norges Bank"
   company_url = "https://www.norges-bank.no/en/topics/Research/Phd-internship/"

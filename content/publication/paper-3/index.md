@@ -1,10 +1,10 @@
 ---
-title: "Quantile combination: An application to US GDP growth forecasts"
+title: "Quantile forecast combination: An application to forecasting US GDP growth"
 authors: 
 - Knut Are Aastveit
 - Saskia ter Ellen
 - admin
-date: "2024-07-10T00:00:00Z"
+date: "2026-01-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -14,7 +14,8 @@ publishDate: "2020-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
+publication: "*International Journal of Forecasting*"
 
 # Publication name and optional abbreviated publication name.
 #publication: 
@@ -30,10 +31,10 @@ tags:
 #featured: true
 
 links:
-#- name: Custom Link
-#  url: http://example.org
-url_pdf: https://www.norges-bank.no/en/news-events/news-publications/Papers/Working-Papers/2024/wp-142024/
-#url_code: '#'
+- name: Journal
+  url: https://www.sciencedirect.com/science/article/abs/pii/S0169207026000580
+url_preprint: https://www.norges-bank.no/en/news-events/news-publications/Papers/Working-Papers/2024/wp-142024/
+url_code: https://github.com/GiuliaMantoan/Replication-package-for-Quantile-forecast-combination-An-application-to-forecasting-US-GDP-growth
 #url_dataset: '#'
 #url_poster: '#'
 #url_project: ''
