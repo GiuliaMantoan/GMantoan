@@ -1,10 +1,14 @@
 [build]
-  command = "hugo"
+  # Netlify's installer no longer supports Hugo 0.55.5, which the Academic theme
+  # version used by this site requires, so the build fetches it directly.
+  command = "curl -sSL https://github.com/gohugoio/hugo/releases/download/v0.55.5/hugo_extended_0.55.5_Linux-64bit.tar.gz | tar -xz hugo && ./hugo"
   publish = "public"
 
 [build.environment]
-  HUGO_VERSION = "0.55.5"
   HUGO_ENABLEGITINFO = "true"
 
 [context.production.environment]
   HUGO_ENV = "production"
+
+[context.deploy-preview]
+  command = "curl -sSL https://github.com/gohugoio/hugo/releases/download/v0.55.5/hugo_extended_0.55.5_Linux-64bit.tar.gz | tar -xz hugo && ./hugo -b $DEPLOY_PRIME_URL"
