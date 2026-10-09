@@ -68,5 +68,3 @@ social:
 The one thing you need to know about me is that I am all about predictive distributions: how to estimate them, how to combine and calibrate them, and how to communicate them better. 
 Currently, I work at the Bank of England in the Monetary Analysis directorate as a Senior Research Economist. Before that, I was a postdoc at the Alan Turing Institute where I collaborated with the ONS - Data Science Campus and an intern at Norges Bank.
 I am a proud Ca' Foscari alumna and a University of Warwick graduate (where I obtained my PhD in 2021).
-
-Even though this is my website, none of the work you see here could have been possible without the amazing network of researchers I was lucky enough to meet. A non-exhaustive list includes my PhD supervisors James Mitchell and Ana Galvao and my co-authors Knut Are Aastveit, Saskia ter Ellen, Samuel Cohen, Silvia Lui, Lars Nesheim, Aureo de Paula, Arthur Turrell, Lingyi Yang, Roberto Casarin, Francesco Ravazzolo, Simon Lloyd and Ed Manuel. 
