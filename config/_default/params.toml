@@ -50,9 +50,9 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "phd16gm@mail.wbs.ac.uk"
+email = "giulia.mantoan@bankofengland.co.uk"
 phone = ""
-address = "Doctoral Office 2.008, Warwick Business School, University of Warwick, Scarman Rd, Coventry CV4 7AL, UK"
+address = "Bank of England, Threadneedle Street, London EC2R 8AH, UK"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 #office_hours = """Monday 10:00 to 13:00<br>
@@ -64,8 +64,6 @@ address = "Doctoral Office 2.008, Warwick Business School, University of Warwick
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "twitter", icon_pack = "fab", name = "Twitter", link = "https://twitter.com/Giulia_Mantoan"},
-  {icon = "skype", icon_pack = "fab", name = "Skype", link = "https://join.skype.com/invite/aq8GkMcXiOac"},
  # {icon = "envelope", icon_pack = "fab", name = "phd16gm@mail.wbs.ac.uk"},
  # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
