@@ -27,7 +27,7 @@ Junior Economist
 
 ## Education
 
-**Warwick Business School, University of Warwick** – 2021  
+**Warwick Business School, University of Warwick** – 2016 to 2021  
 PhD in Finance and Econometrics  
 Supervisors: James Mitchell and Ana Galvão  
 Funded by an ESRC doctoral scholarship
