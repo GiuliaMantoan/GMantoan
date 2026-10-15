@@ -33,10 +33,10 @@ Supervisors: James Mitchell and Ana Galvão
 Funded by an ESRC doctoral scholarship
 
 **Ca' Foscari University of Venice** – 2015  
-MSc in Models and Methods for Economics
+MSc in Models and Methods for Economics, 110/110 cum laude
 
 **Ca' Foscari University of Venice** – 2013  
-BSc in Economics
+BSc in Economics, 103/110
 
 ## Publications
 
