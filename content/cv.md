@@ -93,6 +93,9 @@ CFE Conference, Pisa; Workshop on Forecasting, Narodowy Bank Polski, Warsaw
 **2026**  
 "Mixed Frequency Functional VARs for Nowcasting the Income Distribution in the UK" by A. de Polis, G. Koop, S. McIntyre, J. Mitchell and P. Wu, ASSA Annual Meeting, Philadelphia [[Session]](https://www.aeaweb.org/conference/2026/program/1061)
 
+**2023**  
+"[Conditional Forecasts in Large Bayesian VARs with Multiple Soft and Hard Constraints](https://www.ecb.europa.eu/pub/conferences/shared/pdf/20230612_forecasting_techniques/Poon.pdf)" by A. Poon, J. Chan, D. Pettenuzzo and D. Zhu, 12th ECB Conference on Forecasting Techniques, Frankfurt [[Conference]](https://www.ecb.europa.eu/press/conferences/html/20230612_12th_conference_on_forecasting_techniques.en.html)
+
 ## Conference Organisation
 
 Scientific committee, ECONDAT conferences (2024, 2025, 2026)  
