@@ -1,0 +1,10 @@
+/* Make co-author links visibly clickable */
+.article-metadata a[target="_blank"],
+.pub-authors a[target="_blank"] {
+  color: #2962ff;
+  text-decoration: none;
+}
+.article-metadata a[target="_blank"]:hover,
+.pub-authors a[target="_blank"]:hover {
+  text-decoration: underline;
+}
