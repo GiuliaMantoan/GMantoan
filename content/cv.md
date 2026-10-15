@@ -65,7 +65,7 @@ Mantoan, G. and J. Verlander (2025). "Beyond point estimates: quantifying risk a
 ## Research Presentations at Conferences and Seminars
 
 **2026**  
-ESEM mini-workshop "Forecasting and Risk Assessment", Dublin; ESCoE Conference on Economic Measurement, panel "Frontiers in nowcasting", London [[Video]](https://www.youtube.com/watch?v=r7RHjI6O1Mc); SNDE Symposium, Lisbon; ASSA Annual Meeting, Philadelphia; Federal Reserve Board (internal seminar), Washington DC
+ESEM mini-workshop "Forecasting and Risk Assessment", Dublin; ESCoE Conference on Economic Measurement, panel "Frontiers in nowcasting", London [[Video]](https://www.youtube.com/watch?v=r7RHjI6O1Mc); SNDE Symposium, Lisbon; ASSA Annual Meeting, Philadelphia [[Session]](https://www.aeaweb.org/conference/2026/program/1061); Federal Reserve Board (internal seminar), Washington DC
 
 **2025**  
 Macro Modelling for Monetary Policy Forum (launch of the Bank of England Macro Technical Paper series), NIESR, London; IAAE Annual Conference, Turin; SNDE Symposium, San Antonio
@@ -91,7 +91,7 @@ CFE Conference, Pisa; Workshop on Forecasting, Narodowy Bank Polski, Warsaw
 ## Discussions
 
 **2026**  
-"Mixed Frequency Functional VARs for Nowcasting the Income Distribution in the UK" by A. de Polis, G. Koop, S. McIntyre, J. Mitchell and P. Wu, ASSA Annual Meeting, Philadelphia
+"Mixed Frequency Functional VARs for Nowcasting the Income Distribution in the UK" by A. de Polis, G. Koop, S. McIntyre, J. Mitchell and P. Wu, ASSA Annual Meeting, Philadelphia [[Session]](https://www.aeaweb.org/conference/2026/program/1061)
 
 ## Conference Organisation
 
