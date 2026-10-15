@@ -105,7 +105,7 @@ Royal Economic Society Symposium of Junior Researchers 2019 (lead organiser)
 
 ## Professional Service
 
-Member of the Royal Economic Society working group that drafted the Society's Code of Conduct
+Member of the Royal Economic Society working group that drafted the Society's Code of Conduct (2019)
 
 ## Refereeing Activities
 
