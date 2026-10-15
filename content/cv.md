@@ -69,7 +69,7 @@ ESEM mini-workshop "Forecasting and Risk Assessment", Dublin; ESCoE Conference o
 Macro Modelling for Monetary Policy Forum (launch of the Bank of England Macro Technical Paper series), NIESR, London; IAAE Annual Conference, Turin; SNDE Symposium, San Antonio
 
 **2024**  
-Conference on Real-Time Data Analysis, Methods and Applications, Bank of Canada, Ottawa; EEA-ESEM Congress, Rotterdam; SNDE Symposium, Padova
+Conference on Real-Time Data Analysis, Methods and Applications, Bank of Canada, Ottawa; EEA-ESEM Congress, Rotterdam; SNDE Symposium, Padova; University of Kent (internal seminar), Canterbury
 
 **2023**  
 International Panel Data Conference, Amsterdam; IAAE Annual Conference, Oslo; ECB Conference on Forecasting Techniques, Frankfurt; Workshop "Non-Linearities in Macro", Queen Mary University of London; SNDE Symposium, Orlando

@@ -1,0 +1,114 @@
+\documentclass[11pt,a4paper]{article}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{mathpazo}
+\usepackage[margin=2.4cm,top=2cm]{geometry}
+\usepackage{array,longtable}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{xcolor}
+\definecolor{linkblue}{RGB}{0,0,200}
+\hypersetup{colorlinks=true,urlcolor=linkblue,linkcolor=linkblue}
+\setlength{\parindent}{0pt}
+\pagestyle{plain}
+
+% Section heading: bold, ruled
+\newcommand{\cvsection}[1]{\vspace{10pt}{\small\bfseries #1}\\[-7pt]\rule{\linewidth}{0.6pt}\vspace{2pt}}
+% Two-column rows: dates | description
+\newenvironment{cvtable}{\small\begin{longtable}{@{}p{3.3cm}p{\dimexpr\linewidth-3.3cm-2\tabcolsep\relax}@{}}}{\end{longtable}\vspace{-14pt}}
+\newlist{pubs}{enumerate}{1}
+\setlist[pubs]{leftmargin=*,label=\arabic*.,itemsep=6pt}
+
+\begin{document}
+
+\hfill {\small October, 2026}
+
+\vspace{6pt}
+\begin{center}
+{\LARGE\scshape Giulia Mantoan}
+\end{center}
+\vspace{4pt}
+
+{\small
+\begin{minipage}[t]{0.55\linewidth}
+Bank of England\\
+Monetary Analysis\\[6pt]
+Threadneedle Street\\
+London EC2R 8AH, United Kingdom
+\end{minipage}%
+\begin{minipage}[t]{0.45\linewidth}
+E-mail: \href{mailto:giulia.mantoan@bankofengland.co.uk}{giulia.mantoan@bankofengland.co.uk}\\
+Website: \href{https://mantoangiulia.netlify.app}{mantoangiulia.netlify.app}\\
+\href{https://scholar.google.co.uk/citations?user=EaW6kk8AAAAJ}{Google Scholar} \textperiodcentered{} \href{https://github.com/GiuliaMantoan}{GitHub}
+\end{minipage}
+}
+
+\vspace{8pt}
+\cvsection{Current Employment}
+\begin{cvtable}
+Feb 2025 - & Senior Research Economist, Bank of England, Monetary Analysis \\
+\end{cvtable}
+
+\cvsection{Past Employment}
+\begin{cvtable}
+Oct 2022 - Feb 2025 & Research Economist, Bank of England, Monetary Analysis \\
+Sep 2021 - Sep 2022 & Postdoctoral Researcher, The Alan Turing Institute (with the ONS Data Science Campus) \\
+Apr 2019 - Nov 2019 & PhD Internship, Norges Bank Research \\
+Oct 2015 - Sep 2016 & Junior Economist, Prometeia, Bologna \\
+\end{cvtable}
+
+\cvsection{Education}
+\begin{cvtable}
+2016 - 2021 & Ph.D. in Finance and Econometrics, Warwick Business School, University of Warwick\newline
+Supervisors: James Mitchell and Ana Galv\~ao\newline
+Funded by an ESRC doctoral scholarship \\
+2015 & M.Sc. in Models and Methods for Economics, Ca' Foscari University of Venice, 110/110 cum laude \\
+2013 & B.Sc. in Economics, Ca' Foscari University of Venice, 103/110 \\
+\end{cvtable}
+
+\cvsection{Research Interests}
+{\small Density forecasting, forecast combination and calibration, nowcasting, macroeconomic risk.}
+
+\cvsection{Publications in Refereed Journals}
+\begin{pubs}\small
+\item ``Quantile forecast combination: An application to forecasting US GDP growth'', with Knut Are Aastveit and Saskia ter Ellen (2026). \textbf{International Journal of Forecasting}.
+\item ``Bayesian Calibration of Generalized Pools of Predictive Distributions'', with Roberto Casarin and Francesco Ravazzolo (2016). \textbf{Econometrics} 4(1), 17.
+\end{pubs}
+
+\cvsection{Working Papers}
+\begin{pubs}[resume]\small
+\item ``Forecasting Macroeconomic Risks in the UK'', with David Aikman, Rhys Bidder, Simon Lloyd, Simone Maso, Aditya Mori and Matthew Tong (2026).
+\item ``Testing for Correct Specification of Path Density Forecasts'', with Ana Galv\~ao and James Mitchell (2026).
+\item ``Nowcasting using regression on signatures'', with Samuel N. Cohen, Lars Nesheim, \'Aureo de Paula, Arthur Turrell and Lingyi Yang (2025). arXiv:2305.10256.
+\item ``When Growth-at-Risk Hits the Fan: Comparing Quantile-Regression Predictive Densities with Committee Fan Charts'', with Simon Lloyd and Ed Manuel (2023).
+\end{pubs}
+
+\cvsection{Policy Publications}
+\begin{pubs}[resume]\small
+\item ``Making scenarios add up: spanning risks with scenario synthesis'', with Davide Brignone, Satyam Goel, Simon Lloyd, Nades Raviraj and Andrea Renzetti (2026). \textbf{Bank Insights}, Bank of England.
+\item ``Beyond point estimates: quantifying risk around the near-term UK GDP forecast using a new quantile-MIDAS model'', with Jessica Verlander (2025). \textbf{Bank Overground}, Bank of England.
+\end{pubs}
+
+\cvsection{Editorial and Professional Responsibilities}
+\begin{cvtable}
+ & Scientific committee member, ECONDAT conferences \\
+2019 & Lead organiser, Royal Economic Society Symposium of Junior Researchers \\
+ & Member of the Royal Economic Society working group drafting the Society's Code of Conduct \\
+\end{cvtable}
+
+\cvsection{Refereeing}
+{\small International Journal of Forecasting, Journal of Applied Econometrics, Journal of Business \& Economic Statistics.}
+
+\cvsection{Presentations}
+\begin{cvtable}
+2026 & ESEM mini-workshop ``Forecasting and Risk Assessment'' (Dublin), ESCoE Conference on Economic Measurement, panel ``Frontiers in nowcasting'' (London), SNDE (Lisbon), ASSA (Philadelphia), Board of Governors of the Federal Reserve System (seminar) \\
+2025 & Macro Modelling for Monetary Policy Forum: launch of the Bank of England Macro Technical Paper series (NIESR, London), IAAE (Turin), SNDE (San Antonio) \\
+2024 & Bank of Canada conference: ``Real-Time Data Analysis, Methods and Applications'' (Ottawa), EEA-ESEM (Rotterdam), SNDE (Padova), University of Kent (seminar) \\
+2023 & International Panel Data Conference (Amsterdam), IAAE (Oslo), ECB Conference on Forecasting Techniques (Frankfurt), Workshop ``Non-Linearities in Macro'' (Queen Mary University of London), SNDE (Orlando) \\
+2022 & Bank of England (Macro Brownbag) \\
+2020 & CFE (virtual), ISF (virtual), SNDE (virtual) \\
+2019 & ESEM (Manchester), IAAE (Nicosia), Norges Bank (seminar) \\
+2018 & CFE (Pisa), Narodowy Bank Polski Workshop on Forecasting (Warsaw) \\
+\end{cvtable}
+
+\end{document}
