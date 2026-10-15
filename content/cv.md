@@ -90,7 +90,7 @@ CFE Conference, Pisa; Workshop on Forecasting, Narodowy Bank Polski, Warsaw
 
 ## Conference Organisation
 
-Scientific committee, ECONDAT conferences  
+Scientific committee, ECONDAT conferences (2024, 2025, 2026)  
 Royal Economic Society Symposium of Junior Researchers 2019 (lead organiser)
 
 ## Professional Service
