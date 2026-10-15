@@ -56,6 +56,8 @@ Mantoan, G., A. Galvão and J. Mitchell. "Testing for Correct Specification of P
 
 ## Policy Publications
 
+Contributor to Bernanke, B. S. (2024). "Forecasting for monetary policy making and communication at the Bank of England: a review." Bank of England. [[Link]](https://www.bankofengland.co.uk/independent-evaluation-office/forecasting-for-monetary-policy-making-and-communication-at-the-bank-of-england-a-review/forecasting-for-monetary-policy-making-and-communication-at-the-bank-of-england-a-review)
+
 Brignone, D., S. Goel, S. Lloyd, G. Mantoan, N. Raviraj and A. Renzetti (2026). "Making scenarios add up: spanning risks with scenario synthesis." *Bank Insights*, Bank of England. [[Link]](https://www.bankofengland.co.uk/bank-insights/2026/making-scenarios-add-up-spanning-risks-with-scenario-synthesis)
 
 Mantoan, G. and J. Verlander (2025). "Beyond point estimates: quantifying risk around the near-term UK GDP forecast using a new quantile-MIDAS model." *Bank Overground*, Bank of England. [[Link]](https://www.bankofengland.co.uk/bank-overground/2025/beyond-point-estimates-quantifying-risk-around-the-near-term-uk-gdp-forecast)
