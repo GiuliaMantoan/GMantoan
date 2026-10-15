@@ -68,3 +68,5 @@ social:
 The one thing you need to know about me is that I am all about predictive distributions: how to estimate them, how to combine and calibrate them, and how to communicate them better. 
 Currently, I work at the Bank of England in the Monetary Analysis directorate as a Senior Research Economist. Before that, I was a postdoc at the Alan Turing Institute where I collaborated with the ONS - Data Science Campus and an intern at Norges Bank.
 I am a proud Ca' Foscari alumna and a University of Warwick graduate (where I obtained my PhD in 2021).
+
+*This website is intended as a portal for dissemination of my academic research. The views expressed in my research are my own.*
