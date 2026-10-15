@@ -13,8 +13,10 @@ Email: [giulia.mantoan@bankofengland.co.uk](mailto:giulia.mantoan@bankofengland.
 ## Employment
 
 **Bank of England** – October 2022 to Present  
-Senior Research Economist, Monetary Analysis – February 2025 to Present  
-Research Economist, Monetary Analysis – October 2022 to February 2025
+Senior Research Economist, Current Economic Conditions Division, Monetary Analysis – February 2025 to Present  
+Scenario synthesis for the Bank of England (cross-divisional work)  
+Research Economist, Current Economic Conditions Division, Monetary Analysis – October 2022 to February 2025  
+Quantile-MIDAS model for density nowcasts of UK GDP; contributor to the "Bernanke review of Bank of England Forecast"; seminar on nowcasting at the Central Bank of Kenya
 
 **The Alan Turing Institute** – September 2021 to September 2022  
 Postdoctoral Researcher, in collaboration with the ONS Data Science Campus

@@ -25,7 +25,8 @@ date_format = "Jan 2006"
   date_start = "2025-02-01"
   date_end = ""
   description = """
-  * Monetary Analysis directorate
+  * Current Economic Conditions Division, Monetary Analysis
+  * Scenario synthesis for the Bank of England (cross-divisional work)
   """
 
 [[experience]]
@@ -36,7 +37,9 @@ date_format = "Jan 2006"
   date_start = "2022-10-01"
   date_end = "2025-02-01"
   description = """
-  * Monetary Analysis directorate
+  * Current Economic Conditions Division, Monetary Analysis
+  * Quantile-MIDAS model for density nowcasts of UK GDP
+  * Seminar on nowcasting at the Central Bank of Kenya
   * Contributor to the "Bernanke review of Bank of England Forecast": Bernanke, B. S. (2024), "[Forecasting for monetary policy making and communication at the Bank of England: a review](https://www.bankofengland.co.uk/independent-evaluation-office/forecasting-for-monetary-policy-making-and-communication-at-the-bank-of-england-a-review/forecasting-for-monetary-policy-making-and-communication-at-the-bank-of-england-a-review)"
   """
 
