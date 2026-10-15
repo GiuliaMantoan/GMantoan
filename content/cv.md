@@ -52,7 +52,7 @@ Cohen, S. N., G. Mantoan, L. Nesheim, Á. de Paula, A. Turrell and L. Yang. "Now
 
 Lloyd, S., G. Mantoan and E. Manuel. "When Growth-at-Risk Hits the Fan: Comparing Quantile-Regression Predictive Densities with Committee Fan Charts."
 
-Mantoan, G., A. Galvão and J. Mitchell. "Are Central Banks' Fancharts Reliable? On Calibration of Density Path Forecasts."
+Mantoan, G., A. Galvão and J. Mitchell. "Testing for Correct Specification of Path Density Forecasts."
 
 ## Policy Publications
 
