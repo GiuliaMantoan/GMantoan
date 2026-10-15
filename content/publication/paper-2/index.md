@@ -20,24 +20,12 @@ publication_types: ["3"]
 #publication: In *Source Themes Conference*
 #publication_short: In *STC*
 
-abstract: "Central Banks regularly publish fancharts of macroeconomic variables, communicating
-forecasts for several horizons. Although fancharts contains three types of
-information: point forecasts (the path), likelihood of the path (bands around it), and
-variable's dynamics across horizons; the latter is neglected by existing absolute evaluation
-approaches. Practitioners indeed evaluate the calibration of fancharts testing
-the forecast accuracy horizon by horizon, not considering any time-dependency
-among them. This paper describes fancharts as density path forecasts, discusses
-the impact of time-dependence in evaluation and proposes calibration tests to assess
-whether or not Central Banks publishes reliable forecasts."
+abstract: "We propose a correct specification test for path density forecasts. In comparison with the usual evaluation of forecasts' calibration at each horizon, our test does not over-reject under the null as we account for the multiple horizons when setting the critical values. A simulation exercise shows our bootstrap method leads to good size and power properties in comparison with alternatives. The application of our test procedure to the Bank of England fan charts shows how useful our approach is to evaluate the calibration of density forecasts."
 
 
 
 # Summary. An optional shortened abstract.
-summary: "Practitioners indeed evaluate the calibration of fancharts testing
-the forecast accuracy horizon by horizon, not considering any time-dependency
-among them. This paper describes fancharts as density path forecasts, discusses
-the impact of time-dependence in evaluation and proposes calibration tests to assess
-whether or not Central Banks publishes reliable forecasts."
+summary: "We propose a correct specification test for path density forecasts that accounts for multiple horizons, and apply it to the Bank of England fan charts."
 
 tags:
 #- Source Themes
