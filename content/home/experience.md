@@ -39,7 +39,7 @@ date_format = "Jan 2006"
   description = """
   * Current Economic Conditions Division, Monetary Analysis
   * Quantile-MIDAS model for density nowcasts of UK GDP
-  * Seminar on nowcasting at the Central Bank of Kenya
+  * Workshop on nowcasting at the Central Bank of Kenya
   * Contributor to the "Bernanke review of Bank of England Forecast": Bernanke, B. S. (2024), "[Forecasting for monetary policy making and communication at the Bank of England: a review](https://www.bankofengland.co.uk/independent-evaluation-office/forecasting-for-monetary-policy-making-and-communication-at-the-bank-of-england-a-review/forecasting-for-monetary-policy-making-and-communication-at-the-bank-of-england-a-review)"
   """
 
