@@ -1,5 +1,5 @@
 ---
-title: "Are Central Banks' Fancharts Reliable? On Calibration of Density Path Forecasts"
+title: "Testing for Correct Specification of Path Density Forecasts"
 authors:
 - admin
 - Ana Galvao
