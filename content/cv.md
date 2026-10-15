@@ -40,7 +40,7 @@ BSc in Economics, 103/110
 
 ## Publications
 
-Aastveit, K. A., S. ter Ellen and G. Mantoan (2026). "Quantile forecast combination: An application to forecasting US GDP growth." *International Journal of Forecasting*. [[Journal]](https://www.sciencedirect.com/science/article/abs/pii/S0169207026000580) [[Code]](https://github.com/GiuliaMantoan/Replication-package-for-Quantile-forecast-combination-An-application-to-forecasting-US-GDP-growth)
+Aastveit, K. A., S. ter Ellen and G. Mantoan (2026). "Quantile forecast combination: An application to forecasting US GDP growth." *International Journal of Forecasting* (forthcoming). [[Journal]](https://www.sciencedirect.com/science/article/abs/pii/S0169207026000580) [[Code]](https://github.com/GiuliaMantoan/Replication-package-for-Quantile-forecast-combination-An-application-to-forecasting-US-GDP-growth)
 
 Casarin, R., G. Mantoan and F. Ravazzolo (2016). "Bayesian Calibration of Generalized Pools of Predictive Distributions." *Econometrics*, 4(1), 17. [[Journal]](https://www.mdpi.com/2225-1146/4/1/17)
 
