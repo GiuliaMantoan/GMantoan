@@ -4,109 +4,119 @@ date: 2026-10-15
 type: cv
 ---
 
+<a class="btn btn-outline-primary" href="/files/Giulia_Mantoan_CV.pdf" target="_blank">Download CV (PDF)</a>
+
 **Giulia Mantoan**  
-Senior Research Economist, Bank of England  
-Bank of England, Threadneedle Street, London EC2R 8AH, UK  
+Bank of England, Current Economic Conditions Division, Monetary Analysis  
+Threadneedle Street, London EC2R 8AH, United Kingdom  
 Email: [giulia.mantoan@bankofengland.co.uk](mailto:giulia.mantoan@bankofengland.co.uk)  
 [Google Scholar](https://scholar.google.co.uk/citations?user=EaW6kk8AAAAJ) · [GitHub](https://github.com/GiuliaMantoan)
 
-## Employment
+## Current Employment
 
-**Bank of England** – October 2022 to Present  
-Senior Research Economist, Current Economic Conditions Division, Monetary Analysis – February 2025 to Present  
-Scenario synthesis for the Bank of England (cross-divisional work)  
-Research Economist, Current Economic Conditions Division, Monetary Analysis – October 2022 to February 2025  
-Quantile-MIDAS model for density nowcasts of UK GDP; contributor to the "Bernanke review of Bank of England Forecast"; workshop on nowcasting at the Central Bank of Kenya
+**Feb 2025 –** Senior Research Economist, Current Economic Conditions Division, Monetary Analysis, **Bank of England**, London, United Kingdom  
+*Scenario synthesis for the Bank of England (cross-divisional work)*
 
-**The Alan Turing Institute** – September 2021 to September 2022  
-Postdoctoral Researcher, in collaboration with the ONS Data Science Campus
+## Past Employment
 
-**Norges Bank** – April 2019 to November 2019  
-PhD Intern, Research Department
+**Oct 2022 – Feb 2025** Research Economist, Current Economic Conditions Division, Monetary Analysis, **Bank of England**, London, United Kingdom  
+*Quantile-MIDAS model for density nowcasts of UK GDP; contributor to the "Bernanke review of Bank of England Forecast"*
 
-**Prometeia** – October 2015 to September 2016  
-Junior Economist
+**Sep 2021 – Sep 2022** Postdoctoral Researcher, **The Alan Turing Institute** (with the ONS Data Science Campus), London, United Kingdom
+
+**Apr 2019 – Nov 2019** Ph.D. Intern, Research Department, **Norges Bank**, Oslo, Norway
+
+**Oct 2015 – Sep 2016** Junior Economist, **Prometeia**, Bologna, Italy
 
 ## Education
 
-**Warwick Business School, University of Warwick** – 2016 to 2021  
-PhD in Finance and Econometrics  
+**2016 – 2021** **Ph.D. in Finance and Econometrics**, Warwick Business School, University of Warwick, Coventry, United Kingdom  
 Supervisors: James Mitchell and Ana Galvão  
 Funded by an ESRC doctoral scholarship
 
-**Ca' Foscari University of Venice** – 2015  
-MSc in Models and Methods for Economics, 110/110 cum laude
+**2015** **M.Sc. in Models and Methods for Economics**, Ca' Foscari University of Venice, Venice, Italy. Grade: 110&#47;110 cum laude
 
-**Ca' Foscari University of Venice** – 2013  
-BSc in Economics, 103/110
+**2013** **B.Sc. in Economics**, Ca' Foscari University of Venice, Venice, Italy. Grade: 103&#47;110
 
-## Publications
+## Research Interests
 
-Aastveit, K. A., S. ter Ellen and G. Mantoan (2026). "Quantile forecast combination: An application to forecasting US GDP growth." *International Journal of Forecasting* (forthcoming). [[Journal]](https://www.sciencedirect.com/science/article/abs/pii/S0169207026000580) [[Code]](https://github.com/GiuliaMantoan/Replication-package-for-Quantile-forecast-combination-An-application-to-forecasting-US-GDP-growth)
+Density forecasting, forecast combination and calibration, nowcasting, macroeconomic risk.
 
-Casarin, R., G. Mantoan and F. Ravazzolo (2016). "Bayesian Calibration of Generalized Pools of Predictive Distributions." *Econometrics*, 4(1), 17. [[Journal]](https://www.mdpi.com/2225-1146/4/1/17)
+## Publications in Refereed Journals
+
+1\. "[Quantile forecast combination: An application to forecasting US GDP growth](https://www.sciencedirect.com/science/article/abs/pii/S0169207026000580)", with Knut Are Aastveit and Saskia ter Ellen (2026). **International Journal of Forecasting** (forthcoming).
+
+2\. "[Bayesian Calibration of Generalized Pools of Predictive Distributions](https://www.mdpi.com/2225-1146/4/1/17)", with Roberto Casarin and Francesco Ravazzolo (2016). **Econometrics** 4(1), 17.
 
 ## Working Papers
 
-Aikman, D., R. Bidder, S. Lloyd, G. Mantoan, S. Maso, A. Mori and M. Tong. "Forecasting Macroeconomic Risks in the UK."
+3\. "Forecasting Macroeconomic Risks in the UK", with David Aikman, Rhys Bidder, Simon Lloyd, Simone Maso, Aditya Mori and Matthew Tong.
 
-Cohen, S. N., G. Mantoan, L. Nesheim, Á. de Paula, A. Turrell and L. Yang. "Nowcasting using regression on signatures." [[arXiv]](https://arxiv.org/abs/2305.10256)
+4\. "Testing for Correct Specification of Path Density Forecasts", with Ana Galvão and James Mitchell.
 
-Lloyd, S., G. Mantoan and E. Manuel. "When Growth-at-Risk Hits the Fan: Comparing Quantile-Regression Predictive Densities with Committee Fan Charts."
+5\. "[Nowcasting using regression on signatures](https://arxiv.org/abs/2305.10256)", with Samuel N. Cohen, Lars Nesheim, Áureo de Paula, Arthur Turrell and Lingyi Yang. arXiv:2305.10256.
 
-Mantoan, G., A. Galvão and J. Mitchell. "Testing for Correct Specification of Path Density Forecasts."
+6\. "When Growth-at-Risk Hits the Fan: Comparing Quantile-Regression Predictive Densities with Committee Fan Charts", with Simon Lloyd and Ed Manuel.
 
 ## Policy Publications
 
-Contributor to the "Bernanke review of Bank of England Forecast": Bernanke, B. S. (2024). "Forecasting for monetary policy making and communication at the Bank of England: a review." Bank of England. [[Link]](https://www.bankofengland.co.uk/independent-evaluation-office/forecasting-for-monetary-policy-making-and-communication-at-the-bank-of-england-a-review/forecasting-for-monetary-policy-making-and-communication-at-the-bank-of-england-a-review)
+7\. Contributor to the "Bernanke review of Bank of England Forecast": Ben S. Bernanke (2024), "[Forecasting for monetary policy making and communication at the Bank of England: a review](https://www.bankofengland.co.uk/independent-evaluation-office/forecasting-for-monetary-policy-making-and-communication-at-the-bank-of-england-a-review/forecasting-for-monetary-policy-making-and-communication-at-the-bank-of-england-a-review)". **Bank of England**.
 
-Brignone, D., S. Goel, S. Lloyd, G. Mantoan, N. Raviraj and A. Renzetti (2026). "Making scenarios add up: spanning risks with scenario synthesis." *Bank Insights*, Bank of England. [[Link]](https://www.bankofengland.co.uk/bank-insights/2026/making-scenarios-add-up-spanning-risks-with-scenario-synthesis)
+8\. "[Making scenarios add up: spanning risks with scenario synthesis](https://www.bankofengland.co.uk/bank-insights/2026/making-scenarios-add-up-spanning-risks-with-scenario-synthesis)", with Davide Brignone, Satyam Goel, Simon Lloyd, Nades Raviraj and Andrea Renzetti (2026). **Bank Insights**, Bank of England.
 
-Mantoan, G. and J. Verlander (2025). "Beyond point estimates: quantifying risk around the near-term UK GDP forecast using a new quantile-MIDAS model." *Bank Overground*, Bank of England. [[Link]](https://www.bankofengland.co.uk/bank-overground/2025/beyond-point-estimates-quantifying-risk-around-the-near-term-uk-gdp-forecast)
+9\. "[Beyond point estimates: quantifying risk around the near-term UK GDP forecast using a new quantile-MIDAS model](https://www.bankofengland.co.uk/bank-overground/2025/beyond-point-estimates-quantifying-risk-around-the-near-term-uk-gdp-forecast)", with Jessica Verlander (2025). **Bank Overground**, Bank of England.
 
-## Research Presentations at Conferences and Seminars
+## Teaching Experience
 
-**2026**  
-ESEM mini-workshop "Forecasting and Risk Assessment", Dublin; ESCoE Conference on Economic Measurement, panel "Frontiers in nowcasting", London [[Video]](https://www.youtube.com/watch?v=r7RHjI6O1Mc); SNDE Symposium, Lisbon; ASSA Annual Meeting, Philadelphia [[Session]](https://www.aeaweb.org/conference/2026/program/1061); Federal Reserve Board (internal seminar), Washington DC
+*Bank of England, London, United Kingdom (Module Leader)*
 
-**2025**  
-Macro Modelling for Monetary Policy Forum (launch of the Bank of England Macro Technical Paper series), NIESR, London; IAAE Annual Conference, Turin; SNDE Symposium, San Antonio
+**2024 – 2026** Nowcasting for Decision Makers, Centre for Central Banking Studies  
+**2026** Quantile Regression, Monetary Analysis Technical Skills Programme  
+**2024** Nowcasting, Monetary Analysis Technical Skills Programme
 
-**2024**  
-Conference on Real-Time Data Analysis, Methods and Applications, Bank of Canada, Ottawa; EEA-ESEM Congress, Rotterdam; SNDE Symposium, Padova; University of Kent (internal seminar), Canterbury
+*University of Warwick, Coventry, United Kingdom (Teaching Assistant)*
 
-**2023**  
-International Panel Data Conference, Amsterdam; IAAE Annual Conference, Oslo; ECB Conference on Forecasting Techniques, Frankfurt; Workshop "Non-Linearities in Macro", Queen Mary University of London; SNDE Symposium, Orlando
+**2022** Financial Econometrics (Undergraduate, Level 2), Warwick Business School. Module leader: Cesare Robotti  
+**2021 – 2022** Forecasting for Decision Makers (MBA), Warwick Business School. Module leader: Ana Galvão  
+**2021** Fintech (Undergraduate, Level 3), Warwick Business School. Module leader: Ruslan Sverchkov  
+**2017 – 2020** Quantitative Methods for Finance (M.Sc.), Warwick Business School. Module leaders: Cesare Robotti, Anthony Garratt  
+**2017 – 2019** Advanced Econometric Theory (Ph.D. in Economics), Department of Economics. Module leader: Giovanni Ricco  
+**2017 – 2018** Global Integrative Project (Undergraduate), Warwick Business School. Module leader: Frederik Dahlmann
 
-**2022**  
-Macro Brownbag, Bank of England
+## Presentations
 
-**2020**  
-CFE Conference (online); International Symposium on Forecasting (online); SNDE Symposium (online)
+**2026** ESEM mini-workshop "Forecasting and Risk Assessment" (Dublin, Ireland), ESCoE Conference on Economic Measurement, panel "Frontiers in nowcasting" (London, United Kingdom) [[Video]](https://www.youtube.com/watch?v=r7RHjI6O1Mc), SNDE (Lisbon, Portugal), AEA (American Economic Association) Annual Meeting (Philadelphia, United States), Board of Governors of the Federal Reserve System, seminar (Washington DC, United States)
 
-**2019**  
-ESEM, Manchester; IAAE Annual Conference, Nicosia; Norges Bank (internal seminar), Oslo
+**2025** Macro Modelling for Monetary Policy Forum: launch of the Bank of England Macro Technical Paper series, NIESR (London, United Kingdom), IAAE (Turin, Italy), SNDE (San Antonio, United States)
 
-**2018**  
-CFE Conference, Pisa; Workshop on Forecasting, Narodowy Bank Polski, Warsaw
+**2024** Bank of Canada conference "Real-Time Data Analysis, Methods and Applications" (Ottawa, Canada), EEA-ESEM (Rotterdam, Netherlands), SNDE (Padova, Italy), University of Kent, seminar (Canterbury, United Kingdom)
+
+**2023** International Panel Data Conference (Amsterdam, Netherlands), IAAE (Oslo, Norway), ECB Conference on Forecasting Techniques, poster (Frankfurt, Germany), Workshop "Non-Linearities in Macro", Queen Mary University of London (London, United Kingdom), SNDE (Orlando, United States)
+
+**2022** Bank of England, Macro Brownbag (London, United Kingdom)
+
+**2020** CFE (virtual), ISF (virtual), SNDE (virtual)
+
+**2019** ESEM (Manchester, United Kingdom), IAAE (Nicosia, Cyprus), Norges Bank, seminar (Oslo, Norway)
+
+**2018** CFE (Pisa, Italy), Narodowy Bank Polski Workshop on Forecasting (Warsaw, Poland)
 
 ## Discussions
 
-**2026**  
-"Mixed Frequency Functional VARs for Nowcasting the Income Distribution in the UK" by A. de Polis, G. Koop, S. McIntyre, J. Mitchell and P. Wu, ASSA Annual Meeting, Philadelphia [[Session]](https://www.aeaweb.org/conference/2026/program/1061)
+**2026** "Mixed Frequency Functional VARs for Nowcasting the Income Distribution in the UK" by A. de Polis, G. Koop, S. McIntyre, J. Mitchell and P. Wu, AEA (American Economic Association) Annual Meeting (Philadelphia, United States)
 
-**2023**  
-"[Conditional Forecasts in Large Bayesian VARs with Multiple Soft and Hard Constraints](https://www.ecb.europa.eu/pub/conferences/shared/pdf/20230612_forecasting_techniques/Poon.pdf)" by A. Poon, J. Chan, D. Pettenuzzo and D. Zhu, 12th ECB Conference on Forecasting Techniques, Frankfurt [[Conference]](https://www.ecb.europa.eu/press/conferences/html/20230612_12th_conference_on_forecasting_techniques.en.html)
+**2023** "Conditional Forecasts in Large Bayesian VARs with Multiple Soft and Hard Constraints" by A. Poon, J. Chan, D. Pettenuzzo and D. Zhu, 12th ECB Conference on Forecasting Techniques (Frankfurt, Germany)
 
-## Conference Organisation
+## Conference Organiser and Program Committee
 
-Scientific committee, ECONDAT conferences (2024, 2025, 2026)  
-Royal Economic Society Symposium of Junior Researchers 2019 (lead organiser)
+**2024 – 2026** Scientific Committee, ECONDAT conferences  
+**2019** Lead organiser, Royal Economic Society Symposium of Junior Researchers (Coventry, United Kingdom)
+
+## Refereeing
+
+International Journal of Forecasting, Journal of Applied Econometrics, Journal of Business & Economic Statistics.
 
 ## Professional Service
 
-Member of the Royal Economic Society working group that drafted the Society's Code of Conduct (2019)
-
-## Refereeing Activities
-
-Journal of Applied Econometrics; Journal of Business & Economic Statistics; International Journal of Forecasting
+**Jul 2024** Workshop on nowcasting at the Central Bank of Kenya, on behalf of the Bank of England (Nairobi, Kenya)  
+**2019** Member of the Royal Economic Society working group drafting the Society's Code of Conduct
