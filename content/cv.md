@@ -29,7 +29,8 @@ Junior Economist
 
 **Warwick Business School, University of Warwick** – 2021  
 PhD in Finance and Econometrics  
-Supervisors: James Mitchell and Ana Galvão
+Supervisors: James Mitchell and Ana Galvão  
+Funded by an ESRC doctoral scholarship
 
 **Ca' Foscari University of Venice** – 2015  
 MSc in Models and Methods for Economics
@@ -85,8 +86,13 @@ CFE Conference, Pisa; Workshop on Forecasting, Narodowy Bank Polski, Warsaw
 
 ## Conference Organisation
 
+Scientific committee, ECONDAT conferences  
 Royal Economic Society Symposium of Junior Researchers 2019 (lead organiser)
 
 ## Professional Service
 
 Member of the Royal Economic Society working group that drafted the Society's Code of Conduct
+
+## Refereeing Activities
+
+Journal of Applied Econometrics; Journal of Business & Economic Statistics; International Journal of Forecasting
