@@ -46,6 +46,8 @@ Casarin, R., G. Mantoan and F. Ravazzolo (2016). "Bayesian Calibration of Genera
 
 ## Working Papers
 
+Aikman, D., R. Bidder, S. Lloyd, G. Mantoan, S. Maso, A. Mori and M. Tong. "Forecasting Macroeconomic Risks in the UK."
+
 Cohen, S. N., G. Mantoan, L. Nesheim, Á. de Paula, A. Turrell and L. Yang. "Nowcasting using regression on signatures." [[arXiv]](https://arxiv.org/abs/2305.10256)
 
 Lloyd, S., G. Mantoan and E. Manuel. "When Growth-at-Risk Hits the Fan: Comparing Quantile-Regression Predictive Densities with Committee Fan Charts."
