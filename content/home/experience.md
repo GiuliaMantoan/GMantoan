@@ -37,7 +37,7 @@ date_format = "Jan 2006"
   date_end = "2025-02-01"
   description = """
   * Monetary Analysis directorate
-  * Contributor to the "[Bernanke review of Bank of England Forecast](https://www.bankofengland.co.uk/independent-evaluation-office/forecasting-for-monetary-policy-making-and-communication-at-the-bank-of-england-a-review/forecasting-for-monetary-policy-making-and-communication-at-the-bank-of-england-a-review)" (2024)
+  * Contributor to the "Bernanke review of Bank of England Forecast": Bernanke, B. S. (2024), "[Forecasting for monetary policy making and communication at the Bank of England: a review](https://www.bankofengland.co.uk/independent-evaluation-office/forecasting-for-monetary-policy-making-and-communication-at-the-bank-of-england-a-review/forecasting-for-monetary-policy-making-and-communication-at-the-bank-of-england-a-review)"
   """
 
 [[experience]]
