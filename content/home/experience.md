@@ -37,6 +37,7 @@ date_format = "Jan 2006"
   date_end = "2025-02-01"
   description = """
   * Monetary Analysis directorate
+  * Contributed to the [Bernanke Review](https://www.bankofengland.co.uk/independent-evaluation-office/forecasting-for-monetary-policy-making-and-communication-at-the-bank-of-england-a-review/forecasting-for-monetary-policy-making-and-communication-at-the-bank-of-england-a-review) of forecasting for monetary policy at the Bank of England (2024)
   """
 
 [[experience]]
