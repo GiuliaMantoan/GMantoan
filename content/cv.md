@@ -88,6 +88,11 @@ ESEM, Manchester; IAAE Annual Conference, Nicosia; Norges Bank (internal seminar
 **2018**  
 CFE Conference, Pisa; Workshop on Forecasting, Narodowy Bank Polski, Warsaw
 
+## Discussions
+
+**2026**  
+"Mixed Frequency Functional VARs for Nowcasting the Income Distribution in the UK" by A. de Polis, G. Koop, S. McIntyre, J. Mitchell and P. Wu, ASSA Annual Meeting, Philadelphia
+
 ## Conference Organisation
 
 Scientific committee, ECONDAT conferences (2024, 2025, 2026)  
