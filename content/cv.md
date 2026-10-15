@@ -42,13 +42,13 @@ BSc in Economics, 103/110
 
 [Aastveit, K. A.](https://www.norges-bank.no/en/about/Research/economists/Aastveit-Knut-Are), [S. ter Ellen](https://cepr.org/about/people/saskia-ter-ellen) and G. Mantoan (2026). "Quantile forecast combination: An application to forecasting US GDP growth." *International Journal of Forecasting*. [[Journal]](https://www.sciencedirect.com/science/article/abs/pii/S0169207026000580) [[Code]](https://github.com/GiuliaMantoan/Replication-package-for-Quantile-forecast-combination-An-application-to-forecasting-US-GDP-growth)
 
-Casarin, R., G. Mantoan and F. Ravazzolo (2016). "Bayesian Calibration of Generalized Pools of Predictive Distributions." *Econometrics*, 4(1), 17. [[Journal]](https://www.mdpi.com/2225-1146/4/1/17)
+[Casarin, R.](https://sites.google.com/view/robertocasarin), G. Mantoan and [F. Ravazzolo](http://francescoravazzolo.com/) (2016). "Bayesian Calibration of Generalized Pools of Predictive Distributions." *Econometrics*, 4(1), 17. [[Journal]](https://www.mdpi.com/2225-1146/4/1/17)
 
 ## Working Papers
 
-[Aikman, D.](https://www.kcl.ac.uk/people/david-aikman), R. Bidder, [S. Lloyd](https://sites.google.com/view/splloyd), G. Mantoan, S. Maso, A. Mori and M. Tong. "Forecasting Macroeconomic Risks in the UK."
+[Aikman, D.](https://www.kcl.ac.uk/people/david-aikman), [R. Bidder](https://sites.google.com/view/rhysbidder), [S. Lloyd](https://sites.google.com/view/splloyd), G. Mantoan, S. Maso, A. Mori and M. Tong. "Forecasting Macroeconomic Risks in the UK."
 
-[Cohen, S. N.](https://users.ox.ac.uk/~math0391/index.html), G. Mantoan, [L. Nesheim](https://www.bristol.ac.uk/people/person/Lars-Nesheim-acdaafb9-77b5-4c68-a281-c881032ffb8f), [Á. de Paula](https://www.homepages.ucl.ac.uk/~uctpand), A. Turrell and L. Yang. "Nowcasting using regression on signatures." [[arXiv]](https://arxiv.org/abs/2305.10256)
+[Cohen, S. N.](https://users.ox.ac.uk/~math0391/index.html), G. Mantoan, [L. Nesheim](https://www.bristol.ac.uk/people/person/Lars-Nesheim-acdaafb9-77b5-4c68-a281-c881032ffb8f), [Á. de Paula](https://www.homepages.ucl.ac.uk/~uctpand), [A. Turrell](https://aeturrell.com/) and [L. Yang](https://scholar.google.com/citations?user=Z8rPKb8AAAAJ&hl=en). "Nowcasting using regression on signatures." [[arXiv]](https://arxiv.org/abs/2305.10256)
 
 [Lloyd, S.](https://sites.google.com/view/splloyd), G. Mantoan and [E. Manuel](https://sites.google.com/view/edmanuel/). "When Growth-at-Risk Hits the Fan: Comparing Quantile-Regression Predictive Densities with Committee Fan Charts."
 
