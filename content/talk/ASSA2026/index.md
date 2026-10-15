@@ -1,7 +1,7 @@
 ---
-title: "ASSA 2026 Annual Meeting"
+title: "ASSA 2026 Annual Meeting, session “Next Gen Nowcasting: Signatures, Distributions, and Simplified Workflows”"
 event: Academic Conference
-event_url: https://www.aeaweb.org/conference/2026
+event_url: https://www.aeaweb.org/conference/2026/program/1061
 location: Philadelphia, USA
 summary:
 date: "2026-01-03"
