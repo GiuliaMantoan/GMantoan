@@ -1,0 +1,20 @@
+{{/* Display author list. Co-authors listed in data/coauthors.yaml link to their web pages. */}}
+
+{{ $taxonomy := "authors" }}
+{{ with .Param $taxonomy }}
+  {{ range $index, $value := . }}
+    {{- $profile_page := site.GetPage (printf "/%s/%s" $taxonomy (. | urlize)) -}}
+    {{- $name := $profile_page.Params.name | default ($value|markdownify) -}}
+    {{- $ext := index site.Data.coauthors $value -}}
+    {{- if gt $index 0 }}, {{ end -}}
+    <span itemprop="author name" itemtype="http://schema.org/Person">
+      {{- if $ext -}}
+        <a href="{{ $ext }}" target="_blank" rel="noopener">{{$name}}</a>
+      {{- else if $profile_page -}}
+        <a href="{{$profile_page.RelPermalink}}">{{$name}}</a>
+      {{- else -}}
+        {{$name}}
+      {{- end -}}
+    </span>
+  {{- end -}}
+{{ end }}

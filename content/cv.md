@@ -29,7 +29,7 @@ Junior Economist
 
 **Warwick Business School, University of Warwick** – 2016 to 2021  
 PhD in Finance and Econometrics  
-Supervisors: [James Mitchell](https://www.clevelandfed.org/people/profiles/m/mitchell-james) and [Ana Galvão](https://sites.google.com/site/anabgalvao/)  
+Supervisors: James Mitchell and Ana Galvão  
 Funded by an ESRC doctoral scholarship
 
 **Ca' Foscari University of Venice** – 2015  
@@ -40,23 +40,23 @@ BSc in Economics, 103/110
 
 ## Publications
 
-[Aastveit, K. A.](https://www.norges-bank.no/en/about/Research/economists/Aastveit-Knut-Are), [S. ter Ellen](https://cepr.org/about/people/saskia-ter-ellen) and G. Mantoan (2026). "Quantile forecast combination: An application to forecasting US GDP growth." *International Journal of Forecasting*. [[Journal]](https://www.sciencedirect.com/science/article/abs/pii/S0169207026000580) [[Code]](https://github.com/GiuliaMantoan/Replication-package-for-Quantile-forecast-combination-An-application-to-forecasting-US-GDP-growth)
+Aastveit, K. A., S. ter Ellen and G. Mantoan (2026). "Quantile forecast combination: An application to forecasting US GDP growth." *International Journal of Forecasting*. [[Journal]](https://www.sciencedirect.com/science/article/abs/pii/S0169207026000580) [[Code]](https://github.com/GiuliaMantoan/Replication-package-for-Quantile-forecast-combination-An-application-to-forecasting-US-GDP-growth)
 
-[Casarin, R.](https://sites.google.com/view/robertocasarin), G. Mantoan and [F. Ravazzolo](http://francescoravazzolo.com/) (2016). "Bayesian Calibration of Generalized Pools of Predictive Distributions." *Econometrics*, 4(1), 17. [[Journal]](https://www.mdpi.com/2225-1146/4/1/17)
+Casarin, R., G. Mantoan and F. Ravazzolo (2016). "Bayesian Calibration of Generalized Pools of Predictive Distributions." *Econometrics*, 4(1), 17. [[Journal]](https://www.mdpi.com/2225-1146/4/1/17)
 
 ## Working Papers
 
-[Aikman, D.](https://www.kcl.ac.uk/people/david-aikman), [R. Bidder](https://sites.google.com/view/rhysbidder), [S. Lloyd](https://sites.google.com/view/splloyd), G. Mantoan, S. Maso, A. Mori and M. Tong. "Forecasting Macroeconomic Risks in the UK."
+Aikman, D., R. Bidder, S. Lloyd, G. Mantoan, S. Maso, A. Mori and M. Tong. "Forecasting Macroeconomic Risks in the UK."
 
-[Cohen, S. N.](https://users.ox.ac.uk/~math0391/index.html), G. Mantoan, [L. Nesheim](https://www.bristol.ac.uk/people/person/Lars-Nesheim-acdaafb9-77b5-4c68-a281-c881032ffb8f), [Á. de Paula](https://www.homepages.ucl.ac.uk/~uctpand), [A. Turrell](https://aeturrell.com/) and [L. Yang](https://scholar.google.com/citations?user=Z8rPKb8AAAAJ&hl=en). "Nowcasting using regression on signatures." [[arXiv]](https://arxiv.org/abs/2305.10256)
+Cohen, S. N., G. Mantoan, L. Nesheim, Á. de Paula, A. Turrell and L. Yang. "Nowcasting using regression on signatures." [[arXiv]](https://arxiv.org/abs/2305.10256)
 
-[Lloyd, S.](https://sites.google.com/view/splloyd), G. Mantoan and [E. Manuel](https://sites.google.com/view/edmanuel/). "When Growth-at-Risk Hits the Fan: Comparing Quantile-Regression Predictive Densities with Committee Fan Charts."
+Lloyd, S., G. Mantoan and E. Manuel. "When Growth-at-Risk Hits the Fan: Comparing Quantile-Regression Predictive Densities with Committee Fan Charts."
 
-Mantoan, G., [A. Galvão](https://sites.google.com/site/anabgalvao/) and [J. Mitchell](https://www.clevelandfed.org/people/profiles/m/mitchell-james). "Testing for Correct Specification of Path Density Forecasts."
+Mantoan, G., A. Galvão and J. Mitchell. "Testing for Correct Specification of Path Density Forecasts."
 
 ## Policy Publications
 
-Brignone, D., S. Goel, [S. Lloyd](https://sites.google.com/view/splloyd), G. Mantoan, N. Raviraj and A. Renzetti (2026). "Making scenarios add up: spanning risks with scenario synthesis." *Bank Insights*, Bank of England. [[Link]](https://www.bankofengland.co.uk/bank-insights/2026/making-scenarios-add-up-spanning-risks-with-scenario-synthesis)
+Brignone, D., S. Goel, S. Lloyd, G. Mantoan, N. Raviraj and A. Renzetti (2026). "Making scenarios add up: spanning risks with scenario synthesis." *Bank Insights*, Bank of England. [[Link]](https://www.bankofengland.co.uk/bank-insights/2026/making-scenarios-add-up-spanning-risks-with-scenario-synthesis)
 
 Mantoan, G. and J. Verlander (2025). "Beyond point estimates: quantifying risk around the near-term UK GDP forecast using a new quantile-MIDAS model." *Bank Overground*, Bank of England. [[Link]](https://www.bankofengland.co.uk/bank-overground/2025/beyond-point-estimates-quantifying-risk-around-the-near-term-uk-gdp-forecast)
 
